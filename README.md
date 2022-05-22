@@ -1,4 +1,4 @@
-# svelt-ts-template
+# svelte-ts-template
 Eine angepasste Vorlage für Svelte mit TypeScript und Sass.
 
 ## Installation
