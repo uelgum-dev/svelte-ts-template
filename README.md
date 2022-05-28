@@ -5,5 +5,5 @@ Eine angepasste Vorlage für Svelte mit TypeScript und Sass.
 ```sh-session
 degit uelgum/svelte-ts-template
 npm install
-npm run dev
+npm run start
 ```
