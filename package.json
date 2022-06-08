@@ -12,7 +12,7 @@
   "contributors": [
     "Wlad G. Gumenyuk"
   ],
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.44",
     "@tsconfig/svelte": "^3.0.0",
