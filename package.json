@@ -1,18 +1,15 @@
 {
   "name": "svelte-ts-template",
   "version": "1.0.0",
-  "description": "Eine angepasste Vorlage für Svelte mit TypeScript und Sass.",
+  "description": "",
   "main": "./src/index.ts",
   "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build"
   },
-  "author": "Artjom G. Gumenyuk",
-  "contributors": [
-    "Wlad G. Gumenyuk"
-  ],
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.1",
     "@tsconfig/svelte": "^3.0.0",
